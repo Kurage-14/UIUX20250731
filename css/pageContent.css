@@ -3,9 +3,9 @@
 }
 
 input::-moz-placeholder {
-  color: red !important;
+  color: #575555 !important;
 }
 
 input::placeholder {
-  color: red !important;
+  color: #575555 !important;
 }/*# sourceMappingURL=pageContent.css.map */
