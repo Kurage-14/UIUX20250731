@@ -1,3 +1,11 @@
 .h200px {
   height: 200px;
+}
+
+input::-moz-placeholder {
+  color: red !important;
+}
+
+input::placeholder {
+  color: red !important;
 }/*# sourceMappingURL=pageContent.css.map */
